@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">IoT & AIML Enthusiast</h3>
-<img align="right" alt="Coding" width="200" src="https://quotestube.com/wp-content/uploads/2021/03/elon-musk-quotes-3.jpeg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entre-preneur12&label=Profile%20views&color=0e75b6&style=flat" alt="entre-preneur12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entre-preneur12" alt="entre-preneur12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_entrepreneur_y" target="blank"><img src="https://img.shields.io/twitter/follow/_entrepreneur_y?logo=twitter&style=for-the-badge" alt="_entrepreneur_y" /></a> </p>
-
+<img align="right" alt="Coding" width="200" src="https://quotestube.com/wp-content/uploads/2021/03/elon-musk-quotes-3.jpeg">
 - 🔭 I’m currently working with **Institution Innovation Council- IEM**
 
 - 🌱 I’m currently learning **Web Development, IoT, AIML**
